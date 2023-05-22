@@ -1,2 +1,1 @@
-# sistema-gimnasio
- Sistema para gimnasios. PHP, MySQL, Vue y Vuetify
+Sistema de proyecto modular Sistemas distribuidos
